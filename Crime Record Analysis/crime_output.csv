@@ -1,0 +1,40 @@
+ID,City,Location,Crime Type,Victims,Weapon,Arrested,Report Date,Report Time
+1,Haryana,Gurugram,Murder,1,Not Specified,1,2025-04-14,0 days 00:00:00
+2,Haryana,Gurugram,Vehicular Homicide,1,Car,1,2025-04-10,0 days 00:00:00
+3,Delhi,Delhi,Murder,1,Gun,0,2025-04-14,0 days 00:00:00
+4,Delhi,Delhi,Robbery,1,Gun,1,2025-04-05,0 days 00:00:00
+5,UP,Meerut,Murder,1,Blunt Object,1,2025-04-10,0 days 00:00:00
+6,UP,Etawah,Murder,2,Shovel,1,2025-04-10,0 days 00:00:00
+7,Rajasthan,Hanumangarh,Acid Attack,1,Acid,0,2025-04-10,0 days 00:00:00
+8,Gujarat,Rajkot,Murder,1,Blunt Object,1,2025-04-08,0 days 00:00:00
+9,Bihar,Patna,Cybercrime,1,Digital Means,0,2025-04-15,0 days 00:00:00
+10,Maharashtra,Mumbai,Murder,1,Not Specified,1,2025-04-15,0 days 00:00:00
+11,Maharashtra,Nagpur,Murder,1,Poison,1,2025-04-15,0 days 00:00:00
+12,Odisha,Bhubaneswar,Kidnapping,1,No Weapon,1,2025-04-15,0 days 00:00:00
+13,Telangana,Hyderabad,Murder,1,Knife,1,2025-04-15,0 days 00:00:00
+14,Jharkhand,Ranchi,Animal Cruelty,0,Rifle,1,2025-04-08,0 days 00:00:00
+15,Karnataka,Bengaluru,Drug Trafficking,0,No Weapon,1,2025-04-14,0 days 00:00:00
+16,Uttarakhand,Dehradun,Illegal Animal,0,Not Specified,1,2025-04-02,0 days 00:00:00
+17,Himachal Pradesh,Sirmaur,Animal Slaughter,0,Not Specified,1,2025-04-02,0 days 00:00:00
+18,Andaman and Nicobar,South Andaman,Violation of Foreigners Act,0,Boat,1,2025-03-31,0 days 00:00:00
+19,Arunachal Pradesh,Naharlagun,Fraud,2,Not Specified,1,2025-04-13,0 days 00:00:00
+20,Sikkim,Gyalshing,Multiple Offenders,1,Not Specified,1,2025-04-10,0 days 00:00:00
+21,West Bengal,Murshidabad,Murder,2,Not Specified,1,2025-04-11,0 days 00:00:00
+22,AP,Visakhapatnam,Murder,1,Strangulation,1,2025-04-15,0 days 00:00:00
+23,MP,Bhopal,Murder,1,Not Specified,1,2025-03-12,0 days 00:00:00
+24,Punjab,Mohali (Dera Bassi),Attempted Harm,0,Gun,1,2025-04-12,0 days 00:00:00
+25,J & K,Pulwama,Drug Trafficking,0,No Weapon,1,2025-04-15,0 days 00:00:00
+26,Telangana,Warangal,Burglary,4,No Weapon,0,2024-05-18,0 days 12:12:12
+27,Karnataka,Mysore,Arson,0,Petrol Bomb,1,2024-06-25,0 days 03:03:03
+28,TamilNadu,Chennai,Assault,3,Rod,1,2021-03-15,0 days 18:20:11
+29,Gujarat,Ahmedabad,Theft,1,No Weapon,0,2021-08-19,0 days 13:46:20
+30,Chhattisgarh,Raipur,Murder,2,Axe,1,2022-08-21,0 days 01:45:00
+31,Kerala,Kochi,Theft,1,No Weapon,0,2022-06-17,0 days 09:08:59
+32,Goa,Panaji,Burglary,2,No Weapon,0,2023-06-21,0 days 03:40:55
+33,Assam,Guwahati,Murder,1,Poison,1,2023-07-15,0 days 23:50:20
+34,Meghalaya,Shillong,Burglary,3,No Weapon,1,2023-10-09,0 days 13:13:13
+35,Nagaland,Kohima,Murder,2,Gun,1,2023-11-20,0 days 02:02:02
+36,Mizoram,Aizawl,Arson,0,Matchstick,0,2023-12-01,0 days 06:45:30
+37,Tripura,Agartala,Theft,1,No Weapon,0,2024-01-15,0 days 08:30:00
+38,Manipur,Imphal,Assault,2,Bat,1,2024-03-10,0 days 19:19:19
+39,TamilNadu,thoraipakkam,Theift,1,No,1,2025-04-18,0 days 00:00:00
