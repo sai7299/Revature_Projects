@@ -1,0 +1,6 @@
+create table transaction_data.failed_trans as (select * from external_query("project-1-459118.us.transaction-analysis","select * from transactions.failed_transactions"))
+ select * from `transaction_data.failed_trans`
+
+ select city,count(city) from `transaction_data.failed_trans` group by city
+select branch,count(transaction_id) as No_of_branches from `transaction_data.failed_trans` group by branch
+select branch,count(branch) from `transaction_data.failed_trans` group by branch;
